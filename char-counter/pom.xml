@@ -73,7 +73,7 @@
               <addClasspath>true</addClasspath>
               <classpathPrefix>libs/</classpathPrefix>
               <mainClass>
-                ua.com.foxminded.char_counter.CharCounterConsoleApplication
+                ua.com.foxminded.charcounter.CharCounterConsoleApplication
               </mainClass>
             </manifest>
           </archive>
